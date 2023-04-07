@@ -4,9 +4,9 @@ public class BitwiseOperatorDemo {
 
 	public static void main(String[] args) {
 		
-		int result1=10&7;
-		int result2=10|7;
-		int result3=10^7;
+		int result1=10 & 7;
+		int result2=10 | 7;
+		int result3=10 ^ 7;
 
 		//Bitwise
 		int result4=8>>1;

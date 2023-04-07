@@ -1,11 +1,10 @@
 
-// Program for premitive data types
+// Program for primitive data types
 package org.tnsif.introduction;
 
 public class PremitiveDataTypesDemo {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		 byte num1=127;
 		 byte bytemax=127;
 		 short shortmax=32767;
