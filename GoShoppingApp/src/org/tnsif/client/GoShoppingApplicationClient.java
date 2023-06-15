@@ -11,6 +11,7 @@ import org.tnsif.framework.NormalAcc;
 public class GoShoppingApplicationClient {
 
 	public static void main(String[] args) {
+		@SuppressWarnings("unused")
 		ShopFactory s=new GSShopFactory();
 		PrimeAcc p=new GSPrimeAcc(5670,"Yash",570,true);
 		NormalAcc n=new GSNormalAcc(2345,"Prabal",570,60);
